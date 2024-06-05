@@ -9,8 +9,9 @@ h2{
 h1, h2{
     text-align: center;
     margin-top: 250px;
+    font-size: 60px;
 }
 
 img{
-    margin-left: 250px;
+    margin-left: 150px;
 }
